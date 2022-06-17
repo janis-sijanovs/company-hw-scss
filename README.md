@@ -1,10 +1,10 @@
-# Magebit Task 1
+# Company Task 1
 
 Older Project
 
-Magebit Web Developer Test Task 1
+Web Developer Test Task 1
 
-This is task 1 of [Magebit Web Developer Test](Web%20Developer%20Test%20-%202021.pdf)
+This is task 1 of [Web Developer Test](Web%20Developer%20Test%20-%202021.pdf)
 
 To run the project:
 
